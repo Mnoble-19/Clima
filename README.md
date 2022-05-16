@@ -5,7 +5,7 @@ Weather application built using Flutter
 ![](screenshots/permission.png)
 
 # Home Screen
-![](screenshots/home)
+![](screenshots/home.jpg)
 
 # Search a city
-![](screenshots/search)
+![](screenshots/search.jpg)
